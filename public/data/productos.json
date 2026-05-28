@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "TEXANA LIAM",
+    "price": 57000,
+    "img": "/Imagenes/liam.JPG",
+    "description": "Texana de caña baja de 18 cm, elaborada en cuero vacuno de alta calidad. Su base artesanal y taco cuadrado de 6.5 cm garantizan confort y estabilidad. Disponible en colores CHOCO y NEGRO. ✔ Talles del 35 al 40. 💰 Efectivo con 10% de descuento."
+  },
+  {
+    "id": 2,
+    "name": "KEY",
+    "price": 45000,
+    "img": "/Imagenes/key.JPG",
+    "description": "Sueco confeccionado en cuero vacuno de alta calidad. Cuenta con un fondo artesanal que asegura resistencia y confort en cada paso, complementado con un taco de 8 cm que brinda altura y estilo. ✔ Talles del 35 al 40. 💰 Efectivo con 10% de descuento."
+  },
+  {
+    "id": 3,
+    "name": "JENNIE",
+    "price": 35000,
+    "img": "/Imagenes/jennie.JPG",
+    "description": "Sandalia con taco aguja GRINA, confeccionada en material raso que aporta sofisticación y suavidad. Su taco de 10 cm realza la figura con estilo y elegancia. ✔ Talles del 35 al 40. 💰 Efectivo con 10% de descuento."
+  }
+]
